@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactweb/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactweb/static/js/main.c0e63f54.chunk.js",
+    "main.js.map": "/reactweb/static/js/main.c0e63f54.chunk.js.map",
+    "runtime-main.js": "/reactweb/static/js/runtime-main.2ba9d5f3.js",
+    "runtime-main.js.map": "/reactweb/static/js/runtime-main.2ba9d5f3.js.map",
+    "static/css/2.4ff9abec.chunk.css": "/reactweb/static/css/2.4ff9abec.chunk.css",
+    "static/js/2.dd0f6f96.chunk.js": "/reactweb/static/js/2.dd0f6f96.chunk.js",
+    "static/js/2.dd0f6f96.chunk.js.map": "/reactweb/static/js/2.dd0f6f96.chunk.js.map",
+    "index.html": "/reactweb/index.html",
+    "precache-manifest.9b5ec41239f3a2255462a0a9b9beddb7.js": "/reactweb/precache-manifest.9b5ec41239f3a2255462a0a9b9beddb7.js",
+    "service-worker.js": "/reactweb/service-worker.js",
+    "static/css/2.4ff9abec.chunk.css.map": "/reactweb/static/css/2.4ff9abec.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/reactweb/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dd0f6f96.chunk.js.LICENSE.txt": "/reactweb/static/js/2.dd0f6f96.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/reactweb/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ba9d5f3.js",
+    "static/css/2.4ff9abec.chunk.css",
+    "static/js/2.dd0f6f96.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c0e63f54.chunk.js"
+  ]
+}
